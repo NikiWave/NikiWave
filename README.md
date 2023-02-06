@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, CSS
 - 👯 I’m looking to collaborate on code
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Animanga, Pokemon and games
+- 💬 Ask me about Animanga, Fitness Pokemon and other games
 - 📫 How to reach me: Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
